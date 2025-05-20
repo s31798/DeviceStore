@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceStore.API", "src/DeviceStore.API\DeviceStore.API.csproj", "{3191BB18-3C0A-488D-ACDA-D5FA3E46F133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3191BB18-3C0A-488D-ACDA-D5FA3E46F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3191BB18-3C0A-488D-ACDA-D5FA3E46F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3191BB18-3C0A-488D-ACDA-D5FA3E46F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3191BB18-3C0A-488D-ACDA-D5FA3E46F133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
