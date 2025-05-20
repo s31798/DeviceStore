@@ -13,4 +13,4 @@
 }
 to appsettings.json in DeviceStore.API.
 
-I chose to seperated the solution into multiple for cleaner architecture, readability and to stick to solid principles 🗿.
+I chose to seperated the solution into multiple projects for cleaner architecture, readability and to stick to solid principles 🗿.
