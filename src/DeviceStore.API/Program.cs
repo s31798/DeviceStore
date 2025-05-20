@@ -17,6 +17,7 @@ public class Program
             builder.Services.AddDbContext<DevicesContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("local")));
             builder.Services.AddTransient<IDeviceService, DeviceService>();
+            builder.Services.AddTransient<IEmployeeService, EmployeeService>();
         }
         else
         {
